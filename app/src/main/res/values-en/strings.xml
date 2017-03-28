@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BusinessAssistant</string>
+
+    <string name="loading">loading...</string>
+    <string name="netWork_connecting_failed">The network connection failed,Please check the network settings</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="net_time_out">Request timeout</string>
+    <string name="common_loading_message">Loading...</string>
+    <string name="common_empty_msg">No Data</string>
+    <string name="common_error_msg">Oops, something wrong!\nPlease hit the screen and try again~</string>
+    <string name="common_no_network_msg">No network connected!\nPlease hit the screen and try again after connecting~</string>
+
+</resources>
